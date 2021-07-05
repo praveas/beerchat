@@ -26,6 +26,7 @@ function App() {
   return (
     <div className="App">
       <header>
+        <img src = "https://cdn2.vectorstock.com/i/1000x1000/73/86/mug-with-beer-icon-cartoon-style-vector-24217386.jpg"/>
         <h1>Beer Messenger</h1>
         
         <SignOut />
